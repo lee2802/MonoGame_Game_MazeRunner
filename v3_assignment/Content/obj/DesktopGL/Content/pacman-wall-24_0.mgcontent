@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/MMU/Intake August 2021/GameAlgo/v2Assignment/1181302810_LeeXiuHong_Assignment/v3assignment/v3_assignment/v3_assignment/Content/pacman-wall-24.png</SourceFile>
+  <SourceTime>2018-08-15T11:33:00+08:00</SourceTime>
+  <DestFile>D:/MMU/Intake August 2021/GameAlgo/v2Assignment/1181302810_LeeXiuHong_Assignment/v3assignment/v3_assignment/v3_assignment/Content/bin/DesktopGL/Content/pacman-wall-24_0.xnb</DestFile>
+  <DestTime>2022-03-15T00:09:06.2728066+08:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-11T00:17:54+08:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-11T00:17:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>135,175,96,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

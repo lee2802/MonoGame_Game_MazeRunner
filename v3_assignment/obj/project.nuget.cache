@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "mDgRxqU3nb0N19r+fgEVJhQjCzMG2geVN9SCy2qhP8Dc65gmbVWxK1wt+g/MJp/vS9S4vnTmopqs3mB8f8Kb9Q==",
+  "success": true,
+  "projectFilePath": "D:\\MMU\\Intake August 2021\\GameAlgo\\v2Assignment\\1181302810_LeeXiuHong_Assignment\\v3assignment\\v3_assignment\\v3_assignment\\v3_assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leeah\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\leeah\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\leeah\\.nuget\\packages\\monogame.extended\\3.8.0\\monogame.extended.3.8.0.nupkg.sha512",
+    "C:\\Users\\leeah\\.nuget\\packages\\monogame.extended.animations\\3.7.0\\monogame.extended.animations.3.7.0.nupkg.sha512",
+    "C:\\Users\\leeah\\.nuget\\packages\\monogame.extended.collisions\\3.8.0\\monogame.extended.collisions.3.8.0.nupkg.sha512",
+    "C:\\Users\\leeah\\.nuget\\packages\\monogame.extended.content.pipeline\\3.8.0\\monogame.extended.content.pipeline.3.8.0.nupkg.sha512",
+    "C:\\Users\\leeah\\.nuget\\packages\\monogame.extended.graphics\\3.8.0\\monogame.extended.graphics.3.8.0.nupkg.sha512",
+    "C:\\Users\\leeah\\.nuget\\packages\\monogame.extended.tiled\\3.8.0\\monogame.extended.tiled.3.8.0.nupkg.sha512",
+    "C:\\Users\\leeah\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\leeah\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

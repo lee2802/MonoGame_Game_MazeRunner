@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/MMU/Intake August 2021/GameAlgo/v2Assignment/1181302810_LeeXiuHong_Assignment/v3assignment/v3_assignment/v3_assignment/Content/font.spritefont</SourceFile>
+  <SourceTime>2021-11-19T03:42:50+08:00</SourceTime>
+  <DestFile>D:/MMU/Intake August 2021/GameAlgo/v2Assignment/1181302810_LeeXiuHong_Assignment/v3assignment/v3_assignment/v3_assignment/Content/bin/DesktopGL/Content/font.xnb</DestFile>
+  <DestTime>2022-03-15T00:09:05.6058756+08:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-11T00:17:54+08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-11T00:17:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

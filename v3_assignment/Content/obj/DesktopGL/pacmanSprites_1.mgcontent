@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/MMU/Intake August 2021/GameAlgo/v2Assignment/v3assignment/v3_assignment/v3_assignment/Content/pacmanSprites.png</SourceFile>
+  <SourceTime>2018-08-03T11:54:49.7168648+08:00</SourceTime>
+  <DestFile>D:/MMU/Intake August 2021/GameAlgo/v2Assignment/v3assignment/v3_assignment/v3_assignment/Content/bin/DesktopGL/pacmanSprites_1.xnb</DestFile>
+  <DestTime>2021-11-15T13:51:20.6883137+08:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-11T00:17:54+08:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-11T00:17:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

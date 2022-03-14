@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/MMU/Intake August 2021/GameAlgo/v2Assignment/v3assignment/v3_assignment/v3_assignment/Content/map.tmx</SourceFile>
+  <SourceTime>2021-11-19T03:30:22.6126446+08:00</SourceTime>
+  <DestFile>D:/MMU/Intake August 2021/GameAlgo/v2Assignment/v3assignment/v3_assignment/v3_assignment/Content/bin/DesktopGL/map.xnb</DestFile>
+  <DestTime>2021-11-19T03:33:24.8266947+08:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2020-08-30T01:17:30+08:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2020-08-30T01:17:30+08:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>D:/MMU/Intake August 2021/GameAlgo/v2Assignment/v3assignment/v3_assignment/v3_assignment/Content/bin/DesktopGL/pacman-wall.xnb</string>
+    <string>D:/MMU/Intake August 2021/GameAlgo/v2Assignment/v3assignment/v3_assignment/v3_assignment/Content/bin/DesktopGL/pacmanSprites_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>
